@@ -161,20 +161,20 @@ justify-content: center;
 }
 .offer1{
     margin:  0 25px 0 25px;
-background-image: url(/banner-01.webp);
+background-image: url(./banner-01.webp);
 transition: 1s;
 background-size: cover;
 
 }
 .offer2{
      margin:  0 25px 0 25;
-    background-image: url(/banner-02.webp);
+    background-image: url(./banner-02.webp);
     background-size: cover;
 }
 .offer3{
      margin:  0 25px 0 25px;
     background-size: cover;
-    background-image: url(/banner-03.webp);
+    background-image: url(./banner-03.webp);
 }
 
 
@@ -462,7 +462,7 @@ background-size: cover;
       width: 100%;
       text-align: center;
       padding: 150px 20px;
-      background-image: url("/image-3.webp");
+      background-image: url("./image-3.webp");
     background-size: cover; }
 
    .container3 h1 {
