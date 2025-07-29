@@ -229,23 +229,23 @@ overflow: hidden;
   }
 .grid1{
 grid-column: span 4;
-background-image: url(/image-1.webp);
+background-image: url(./image-1.webp);
 background-size: cover;
 }
 .grid2{
     background-size: cover;
     grid-column: span 2;
-    background-image: url(/image-2.webp);
+    background-image: url(./image-2.webp);
 }
 .grid3{
     background-size: cover;
     grid-column: span 3;
-    background-image: url(/image-3.webp);
+    background-image: url(./image-3.webp);
 }
 .grid4{
     background-size: cover;
     grid-column: span 3;
-    background-image: url(/image-4.webp);
+    background-image: url(./image-4.webp);
 }
 
 
